@@ -1,0 +1,26 @@
+a {
+  color: black;
+}
+
+a:hover {
+  color: inherit;
+}
+
+body{
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 14px;
+}
+
+.posttext{
+  color: #828282;
+  font-size: 10px;
+}
+
+a.posttext{
+  color: #828282;
+  font-size: 10px;
+}
+
+a.posttext:hover{
+  color: #828282;
+}
